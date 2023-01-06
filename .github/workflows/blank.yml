@@ -41,5 +41,5 @@ jobs:
       - name: python version
         run: python --version
       - name: docker version
-        run: docker -version
+        run: docker --version
         
